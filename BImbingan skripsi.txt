@@ -1,0 +1,7 @@
+Andi
+c4.5 masalahnya biasanya kendala untuk klasifikasi pegawai
+masalah lebih dijabarkan lagi
+gambaran umum tambahkan proses training, testing model dll yg menggambarkan c4.5
+Gunakan mendeley
+
+chandra
